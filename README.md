@@ -83,7 +83,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 `git push -u origin main`
 
-later on when the repo is pushed just push the chamges
+### Later on when the repo is pushed just push the chamges
 
 `git add .`
 
