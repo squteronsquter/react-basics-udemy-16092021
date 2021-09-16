@@ -1,0 +1,12 @@
+.footer {
+  background-color: #ddd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4rem;
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.7rem;
+  width: 100%;
+  position: absolute;
+  bottom: 1rem;
+}
