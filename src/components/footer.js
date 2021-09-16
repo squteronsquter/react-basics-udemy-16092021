@@ -5,9 +5,11 @@ class Footer extends Component {
   render() {
     return (
       <>
-        <p className="footer">
-          &copy; 2021 | Moje obrazy - All rights reserved.
-        </p>
+        <footer onClick={() => console.log('I was clicked')}>
+          <p className="footer">
+            &copy; 2021 | Moje obrazy - All rights reserved.
+          </p>
+        </footer>
       </>
     )
   }
