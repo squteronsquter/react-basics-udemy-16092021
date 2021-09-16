@@ -82,3 +82,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 `git remote add origin https://github.com/squteronsquter/react-basics-udemy-16092021.git`
 
 `git push -u origin main`
+
+later on when the repo is pushed just push the chamges
+
+`git add .`
+
+`git commit -m "You commit comment"`
+
+`git push -u origin main`
