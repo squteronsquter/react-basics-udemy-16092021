@@ -2,15 +2,18 @@ import React, { Component } from 'react'
 import './footer.css'
 
 class Footer extends Component {
+  hello() {
+    alert('Hey You clicked the footer message!')
+  }
   handleClick() {
-    console.log('I was clicked with a mothod')
+    console.log('I was clicked with a method')
   }
 
   render() {
     return (
       <>
         <footer onClick={this.handleClick}>
-          <p className="footer">
+          <p className="footer" onClick={this.hello}>
             &copy; 2021 | Moje obrazy - All rights reserved.
           </p>
         </footer>
