@@ -1,0 +1,22 @@
+h2 {
+  padding: 2rem;
+}
+.form {
+  font-family: 'Oswald', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.search-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  /* font-family: 'Oswald', sans-serif; */
+}
+.form-output {
+  color: darkslateblue;
+  font-family: 'Oswald', sans-serif;
+}
