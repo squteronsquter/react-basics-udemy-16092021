@@ -1,6 +1,6 @@
 {
-  "name": "Basic 01",
-  "short_name": "Basic",
+  "name": "Moje obrazy",
+  "short_name": "mojeobrazy",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
