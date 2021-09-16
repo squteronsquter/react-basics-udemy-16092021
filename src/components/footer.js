@@ -3,7 +3,7 @@ import './footer.css'
 
 class Footer extends Component {
   hello() {
-    alert('Hey You clicked the footer message!')
+    alert('Hey, You clicked the footer!')
   }
   handleClick() {
     console.log('I was clicked with a method')
